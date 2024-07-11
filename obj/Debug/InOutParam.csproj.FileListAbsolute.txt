@@ -1,0 +1,7 @@
+C:\Users\sreerag.babu\source\repos\InOutParam\bin\Debug\InOutParam.exe.config
+C:\Users\sreerag.babu\source\repos\InOutParam\bin\Debug\InOutParam.exe
+C:\Users\sreerag.babu\source\repos\InOutParam\bin\Debug\InOutParam.pdb
+C:\Users\sreerag.babu\source\repos\InOutParam\obj\Debug\InOutParam.csproj.AssemblyReference.cache
+C:\Users\sreerag.babu\source\repos\InOutParam\obj\Debug\InOutParam.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\InOutParam\obj\Debug\InOutParam.exe
+C:\Users\sreerag.babu\source\repos\InOutParam\obj\Debug\InOutParam.pdb
